@@ -1,6 +1,7 @@
 # Real-time Remote Photoplethysmography (rPPG) Implementation
 
-# Link Repository Github : 
+# Link Repository Github : https://github.com/RafkiHaykhalAlif/Hands-on_Mulmed/tree/main/rPPG
+# Referensi Teknis Pengerjaan : https://chatgpt.com/share/69317083-b96c-800a-9dd2-fca014de2adc
 
 ## Deskripsi Tugas
 
